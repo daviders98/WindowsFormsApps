@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\obj\Debug\Metodo_Newton_Raphson_A01740055.Form1.resources
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\obj\Debug\Metodo_Newton_Raphson_A01740055.Properties.Resources.resources
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\obj\Debug\Metodo Newton Raphson A01740055.csproj.GenerateResource.Cache
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\obj\Debug\Metodo Newton Raphson A01740055.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\bin\Debug\Metodo Newton Raphson A01740055.exe.config
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\bin\Debug\Metodo Newton Raphson A01740055.exe
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\bin\Debug\Metodo Newton Raphson A01740055.pdb
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\obj\Debug\Metodo Newton Raphson A01740055.exe
+C:\Users\David\source\repos\A01740055\Metodo Newton Raphson A01740055\obj\Debug\Metodo Newton Raphson A01740055.pdb

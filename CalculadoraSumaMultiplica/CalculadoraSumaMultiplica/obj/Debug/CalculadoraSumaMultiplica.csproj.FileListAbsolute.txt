@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\bin\Debug\CalculadoraSumaMultiplica.exe.config
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\bin\Debug\CalculadoraSumaMultiplica.exe
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\bin\Debug\CalculadoraSumaMultiplica.pdb
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\obj\Debug\CalculadoraSumaMultiplica.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\obj\Debug\CalculadoraSumaMultiplica.CalculadoraSumaMultiplica.resources
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\obj\Debug\CalculadoraSumaMultiplica.Properties.Resources.resources
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\obj\Debug\CalculadoraSumaMultiplica.csproj.GenerateResource.Cache
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\obj\Debug\CalculadoraSumaMultiplica.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\obj\Debug\CalculadoraSumaMultiplica.exe
+C:\Users\David\source\repos\CalculadoraSumaMultiplica\CalculadoraSumaMultiplica\obj\Debug\CalculadoraSumaMultiplica.pdb

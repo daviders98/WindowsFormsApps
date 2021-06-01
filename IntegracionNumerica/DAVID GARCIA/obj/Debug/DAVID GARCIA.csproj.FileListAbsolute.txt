@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\bin\Debug\DAVID GARCIA.exe.config
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\bin\Debug\DAVID GARCIA.exe
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\bin\Debug\DAVID GARCIA.pdb
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\obj\Debug\DAVID GARCIA.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\obj\Debug\DAVID_GARCIA.Form1.resources
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\obj\Debug\DAVID_GARCIA.Properties.Resources.resources
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\obj\Debug\DAVID GARCIA.csproj.GenerateResource.Cache
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\obj\Debug\DAVID GARCIA.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\obj\Debug\DAVID GARCIA.exe
+C:\Users\David\source\repos\DAVID GARCIA\DAVID GARCIA\obj\Debug\DAVID GARCIA.pdb

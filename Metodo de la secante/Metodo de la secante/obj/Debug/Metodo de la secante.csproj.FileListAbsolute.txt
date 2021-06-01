@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\bin\Debug\Metodo de la secante.exe.config
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\bin\Debug\Metodo de la secante.exe
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\bin\Debug\Metodo de la secante.pdb
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\obj\Debug\Metodo de la secante.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\obj\Debug\Metodo_de_la_secante.Form1.resources
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\obj\Debug\Metodo_de_la_secante.Properties.Resources.resources
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\obj\Debug\Metodo de la secante.csproj.GenerateResource.Cache
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\obj\Debug\Metodo de la secante.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\obj\Debug\Metodo de la secante.exe
+C:\Users\David\source\repos\A01740055\Metodo de la secante\Metodo de la secante\obj\Debug\Metodo de la secante.pdb
